@@ -4,8 +4,6 @@
 
 -   💼 Working as a **Backend Developer Intern** at [**Devstree IT India**](https://www.devstree.com/)
 
--   📝 Work Profile [**Gitlab**](https://git.devstree.com/tejus.devstree)
-
 -   🔭 Side project I'm working on [Express Generator](https://github.com/Nebula-2003/generator)
 
 -   🌱 Working with **Node, Express, Mongodb**
